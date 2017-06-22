@@ -1,21 +1,17 @@
-Git nuestro
+ï»¿<p><em>Git</em> nuestro que estas en los repos<br /> 
 
-Git nuestro que estas en los repos
+Comprimidos sean tus <em>commits</em><br /> 
 
-Comprimidos sean tus commits
+Venga a nosotros tu <em>log</em><br /> 
 
-Venga a nosotros tu log
+En el local como en el <em>remote</em><br /> 
 
-En el local como en el remote
+Danos hoy nuestro <em>pull</em> de cada dÃ­a<br /> 
 
-Danos hoy nuestro pull de cada día
+Perdona nuestros <em>conï¬‚ictos</em><br /> Como tambiÃ©n perdonamos los de otros geeks<br /> 
 
-Perdona nuestros conflictos
+No nos dejes caer en <em>detached HEAD</em><br /> 
 
-Como también perdonamos los de otros geeks
+y lÃ­branos de <em>SVN</em><br /> 
 
-No nos dejes caer en detached HEAD
-
-y líbranos de SVN
-
-git commit --amend
+<code>git commit --amend</code></p>
